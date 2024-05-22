@@ -1,4 +1,4 @@
-package com.springbatch.arquivolargurafixajob;
+package com.springbatch.arquivolargurafixa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
